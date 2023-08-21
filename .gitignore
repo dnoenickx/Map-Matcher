@@ -2,3 +2,7 @@ data/.DS_Store
 .DS_Store
 .env
 .vscode/launch.json
+data/activities.geojson
+data/completed_centerline.geojson
+data/filtered_activities.geojson
+data/filtered_centerlines.geojson
